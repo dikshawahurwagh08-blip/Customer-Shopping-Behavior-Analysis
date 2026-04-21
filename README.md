@@ -73,7 +73,7 @@ This project analyzes customer shopping behavior using transactional data to unc
  - Loyal customers contribute a major portion of revenue
  - Age groups show distinct spending patterns
    
-💡 Business Recommendations :
+# 💡 Business Recommendations :
   - Promote subscription plans to increase retention
   - Implement loyalty programs for repeat buyers
   - Optimize discount strategies for profitability
